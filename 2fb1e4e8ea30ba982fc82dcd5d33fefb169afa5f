@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: Matthew Treinish <mtreinish@kortar.org>
+Code-Review+1: Zhang Jinnan <zhang.jinnan@99cloud.net>
+Code-Review+1: Stanislaw Szydlo <stanislaw.szydlo@ericpol.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 24 Aug 2015 13:49:19 +0000
+Reviewed-on: https://review.openstack.org/204008
+Project: openstack-dev/devstack-vagrant
+Branch: refs/heads/master
