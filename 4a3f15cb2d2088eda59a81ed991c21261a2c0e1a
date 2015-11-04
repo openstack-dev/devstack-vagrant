@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Chmouel Boudjnah <chmouel@chmouel.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Olivier Lemasle <olivier.lemasle@apalia.net>
+Code-Review+1: Enrico Bacis <enrico.bacis@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 04 Nov 2015 14:22:39 +0000
+Reviewed-on: https://review.openstack.org/221707
+Project: openstack-dev/devstack-vagrant
+Branch: refs/heads/master
