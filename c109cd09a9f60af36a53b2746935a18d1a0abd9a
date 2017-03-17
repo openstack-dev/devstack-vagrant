@@ -1,0 +1,8 @@
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 17 Mar 2017 16:15:11 +0000
+Reviewed-on: https://review.openstack.org/443278
+Project: openstack-dev/devstack-vagrant
+Branch: refs/heads/master
