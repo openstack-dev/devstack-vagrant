@@ -1,0 +1,9 @@
+Code-Review+1: Sviatoslav Sydorenko <wk@sydorenko.org.ua>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 05 Jun 2017 17:26:43 +0000
+Reviewed-on: https://review.openstack.org/469713
+Project: openstack-dev/devstack-vagrant
+Branch: refs/heads/master
