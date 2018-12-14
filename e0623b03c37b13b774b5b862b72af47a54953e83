@@ -1,0 +1,9 @@
+Code-Review+1: Masayuki Igawa <masayuki@igawa.io>
+Code-Review+2: Ghanshyam Mann <gmann@ghanshyammann.com>
+Workflow+1: Ghanshyam Mann <gmann@ghanshyammann.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 14 Dec 2018 08:54:08 +0000
+Reviewed-on: https://review.openstack.org/525677
+Project: openstack-dev/devstack-vagrant
+Branch: refs/heads/master
