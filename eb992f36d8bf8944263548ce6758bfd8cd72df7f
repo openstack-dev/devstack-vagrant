@@ -1,0 +1,8 @@
+Code-Review+2: Ghanshyam Mann <gmann@ghanshyammann.com>
+Workflow+1: Ghanshyam Mann <gmann@ghanshyammann.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 25 Sep 2019 23:01:32 +0000
+Reviewed-on: https://review.opendev.org/659587
+Project: openstack/devstack-vagrant
+Branch: refs/heads/master
